@@ -2,3 +2,5 @@
 Ejemplo de versionamiento de git
 
 # Actualizacion de readme
+
+npx create-react-app myapp
