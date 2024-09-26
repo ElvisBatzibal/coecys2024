@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Bienvenido al demo de COECYS 2024
+          Bienvenido a COECYS 2024
         </p>
         <a
           className="App-link"
@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          COECYS 2024
+          COECYS 2024 Mas Alla del codigo
         </a>
       </header>
     </div>
